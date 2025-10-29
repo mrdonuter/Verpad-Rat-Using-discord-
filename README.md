@@ -72,7 +72,8 @@ Then U can run the builder.exe Paste in youre Bot token and guild id(Server id) 
 --> !distaskmgr = disable task manager(Admin rights are required)
 --> !enbtaskmgr = enable task manager(if disabled)(Admin rights are required)
 --> !getwifipass = get all the wifi passwords on the current device(Admin rights are required)
---> !startup = add file to startup(when computer go on this file starts)(Admin rights are required)```
+--> !startup = add file to startup(when computer go on this file starts)(Admin rights are required)
+```
 
 
 # Disclaimer
