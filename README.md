@@ -1,4 +1,4 @@
-[Text.txt](https://github.com/user-attachments/files/23215172/Text.txt)# Verpad-Rat-Using-discord-
+# Verpad-Rat-Using-discord-
 Simple python rat! Run the exe and But youre Bot token and Guild id in and enjoy! Only use on youre self do not share this only run it on youre own pc!
 
 # How to use build the rat?
@@ -8,8 +8,7 @@ cmd. pip3 install -r requirements.txt
 Then U can run the builder.exe Paste in youre Bot token and guild id(Server id) If thats done a file build.exe will be done!
 
 # Features of the rat!
-
-[Available commands are :
+```Available commands are :
 --> !message = Show a message box displaying your text / Syntax  = "!message example"
 --> !shell = Execute a shell command /Syntax  = "!shell whoami"
 --> !webcampic = Take a picture from the webcam
@@ -73,7 +72,8 @@ Then U can run the builder.exe Paste in youre Bot token and guild id(Server id) 
 --> !distaskmgr = disable task manager(Admin rights are required)
 --> !enbtaskmgr = enable task manager(if disabled)(Admin rights are required)
 --> !getwifipass = get all the wifi passwords on the current device(Admin rights are required)
---> !startup = add file to startup(when computer go on this file starts)(Admin rights are required)Uploading Text.txt…]()
+--> !startup = add file to startup(when computer go on this file starts)(Admin rights are required)```
+
 
 # Disclaimer
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
