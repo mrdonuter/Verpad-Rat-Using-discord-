@@ -2,7 +2,7 @@
 Simple python rat! Run the exe and But youre Bot token and Guild id in and enjoy! Only use on youre self do not share this only run it on youre own pc!
 
 # How to use build the rat?
-Thanks to the builder its easy!
+Thanks to the builder its easy! Must disable real time protection Or eslse it wont let u Run it and deletes procssess!
 First run this in 
 cmd. pip3 install -r requirements.txt
 Then U can run the builder.exe Paste in youre Bot token and guild id(Server id) If thats done a file build.exe will be done!
